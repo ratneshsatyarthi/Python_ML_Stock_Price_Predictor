@@ -6,7 +6,7 @@ This project is a simple Stock Price Predictor web application built using Strea
 
 **To view Streamlit app in your browser :**
 
-ratneshsatyarthi/python_ml_stock_price_predictor/main/Web_stock_price_predictor.py
+https://pythonmlstockpricepredictor-tvkc4y5aaurx2dzyhhprvq.streamlit.app/
 
 **Features :**
 
