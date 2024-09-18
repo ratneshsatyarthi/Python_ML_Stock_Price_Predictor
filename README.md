@@ -5,8 +5,8 @@
 This project is a simple Stock Price Predictor web application built using Streamlit. It allows users to input a stock ticker (e.g., TCS.NS), fetches historical stock data from Yahoo Finance, and predicts future stock prices using a pre-trained Neural Network model. The application also displays various Moving Averages (MA) for different periods (100, 200, 250 days) along with a comparison between the original and predicted stock prices.
 
 **To view Streamlit app in your browser :**
-1. **Local URL :** http://localhost:8501
-2. **Network URL :** http://192.168.108.74:8501
+
+ratneshsatyarthi/python_ml_stock_price_predictor/main/Web_stock_price_predictor.py
 
 **Features :**
 
